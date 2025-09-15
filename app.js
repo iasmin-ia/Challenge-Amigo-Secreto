@@ -15,4 +15,14 @@ function adicionarAmigo() {
   input.value = ""; // limpa o campo
   atualizarLista();
 }
-//O principal objetivo deste desafio é fortalecer suas habilidades em lógica de programação. Aqui você deverá desenvolver a lógica para resolver o problema.
+// Função para atualizar a lista na tela
+function atualizarLista() {
+  const ul = document.getElementById("listaAmigos");
+  ul.innerHTML = ""; // limpa a lista
+
+  listaDeAmigos.forEach((amigo) => {
+    const li = document.createElement("li");
+    li.textContent = amigo;
+    ul.appendChild(li);
+  });
+}
