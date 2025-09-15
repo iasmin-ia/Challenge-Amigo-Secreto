@@ -3,7 +3,7 @@
 Projeto desenvolvido como parte do programa Oracle Next Education (ONE) em parceria com a Alura.
 
 ## 📸 
-![Preview do projeto](assets/tela-amigosecreto.png)
+![](assets/tela-amigosecreto.png)
 
 ## 🧠 Descrição
 Aplicação web para sorteio de amigo secreto que permite adicionar nomes, realizar sorteio de um amigo e reiniciar a lista. Desenvolvido com foco em lógica de programação utilizando JavaScript.
