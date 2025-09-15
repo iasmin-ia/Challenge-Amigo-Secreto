@@ -44,3 +44,10 @@ function sortearAmigo() {
   li.textContent = `O amigo secreto é: ${amigoSorteado}`;
   ulResultado.appendChild(li);
 }
+// Função para reiniciar o sorteio
+function reiniciarSorteio() {
+  listaDeAmigos = [];
+  document.getElementById("listaAmigos").innerHTML = "";
+  document.getElementById("resultado").innerHTML = "";
+  document.getElementById("amigo").value = "";
+}

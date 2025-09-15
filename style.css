@@ -151,6 +151,8 @@ ul {
     color: var(--color-white);
     background-color: var(--color-button);
     font-size: 16px;
+    max-width: 200px;
+    width: 100%;
 }
 
 .button-draw img {
