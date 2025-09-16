@@ -7,6 +7,7 @@ Projeto desenvolvido como parte do programa Oracle Next Education (ONE) em parce
 
 ## 🧠 Descrição
 Aplicação web para sorteio de amigo secreto que permite adicionar nomes, realizar sorteio de um amigo e reiniciar a lista. Desenvolvido com foco em lógica de programação utilizando JavaScript.
+🔗 [Veja o projeto funcionando aqui](https://iasmin-ia.github.io/Challenge-Amigo-Secreto/)
 
 ## 🛠️ Tecnologias
 - HTML
